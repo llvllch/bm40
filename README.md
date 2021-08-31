@@ -3,3 +3,5 @@
 # VEEB keymap for bm40
 
 Our current tweaked keymap for a 40 percent ortholinear keyboard 
+
+Some words about it [here](https://www.veeb.ch/notes/towards-workflow-nirvana-using-layers)
